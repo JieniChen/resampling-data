@@ -11,4 +11,4 @@ Resampled dataset shape Counter({0: 19638, 1: 19638})
 
 ```
 
-
+![alt text](https://github.com/JieniChen/resampling-data/blob/master/result.png)
